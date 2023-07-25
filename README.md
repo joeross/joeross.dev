@@ -1,4 +1,4 @@
-Hey there, Joe here. I forked this from the [original](https://github.com/indieweb/blank-gh-site) on April 8, 2023 to make my new landing page. Like the CC0 license at the bottom of this file says, there's no copyright, and you can do as you please with it.
+Hey there, Joe here. I forked this from the [original](https://github.com/indieweb/blank-gh-site) on April 8, 2023 to make my new landing page at https://home.joeross.me. Then I worked around GitHub's refusal to let me fork the same project twice by uploading those files to this repo, trying to buid a landing page for https://joeross.dev.
 
 # blank-gh-site
 
@@ -13,5 +13,3 @@ Your own unique website can be your identity on the Internet! You can use it to 
 3. Edit `index.html` and put stuff there.
 4. Wait a minute for GitHub to publish your site. Then, check `<yourusername>.github.io` in a new browser tab
 5. (Optional) [Point your domain to Github](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
-
-Per [CC0](http://creativecommons.org/publicdomain/zero/1.0/), to the extent possible under law, [the contributors](https://github.com/indieweb/blank-gh-site/graphs/contributors) have waived all copyright and related or neighboring rights to this work.
